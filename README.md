@@ -15,7 +15,7 @@ It's a pretty basic app and doesn't require much steps
 - Invite participants and hold a study session!
 
 
-## How to install and/or contribute to this project
+## How to install and run the app
 - clone the project
 - set up virtual environment
 - install dependencies by running `pip install -r requirements.txt`
@@ -25,4 +25,4 @@ It's a pretty basic app and doesn't require much steps
 - run the app : `python manage.py runserver`
 
 
-## Have any ideas for study_room?
+### More features coming up soon!
